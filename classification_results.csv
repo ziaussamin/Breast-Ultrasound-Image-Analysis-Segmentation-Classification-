@@ -1,0 +1,6 @@
+filename,class_label,confidence
+01.png,Normal,0.9699908494949341
+02.png,Benign,0.9999997615814209
+03.png,Malignant,0.9487920999526978
+04.png,Normal,0.5213029980659485
+images.jpg,Normal,0.8186219930648804
